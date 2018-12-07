@@ -1,6 +1,6 @@
 {
   "name": "v-viewer",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Image viewer component for vue, supports rotation, scale, zoom and so on, based on viewer.js",
   "main": "dist/v-viewer.js",
   "scripts": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mirari/v-viewer.git"
+    "url": "git+https://github.com/joey91133/v-viewer.git"
   },
   "keywords": [
     "vue",
@@ -89,6 +89,6 @@
   },
   "dependencies": {
     "throttle-debounce": "^2.0.1",
-    "viewerjs": "^1.0.0"
+    "viewerjs": "https://github.com/joey91133/viewerjs/archive/v1.3.1.tar.gz"
   }
 }
